@@ -1,2 +1,2 @@
 # Amazon-Clone-
-It is a Frontend Project using HTML & CSS.
+I have complete this project using HTML-5 & CSS-3 .
